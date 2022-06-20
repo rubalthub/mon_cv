@@ -52,7 +52,7 @@ h2 {
 
 .left-column{
     grid-area: left-column;
-    padding: 0, 50px, 50, 50px;
+    padding: 0 50px 50px 50px;
     background-color: #4472C4;
     color: rgb(214, 214, 214);
 }
